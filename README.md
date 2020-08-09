@@ -1,5 +1,7 @@
 # Hi, I'm Nelson
 
+I'm working for [@OCTOTechnology](https://twitter.com/OCTOTechnology)
+
 ## Find me around the web 🌎:
 
 <a href="https://github.com/baruica"><img src="https://img.shields.io/github/followers/baruica.svg?label=GitHub&style=social" alt="GitHub"></a>
