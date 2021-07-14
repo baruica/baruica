@@ -1,6 +1,6 @@
 # Hi, I'm Nelson
 
-## Find me around the web 🌎:
+## Find me around the web 🌎
 
 <a href="https://github.com/baruica"><img src="https://img.shields.io/github/followers/baruica.svg?label=GitHub&style=social" alt="GitHub"></a>
 
