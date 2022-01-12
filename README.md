@@ -5,7 +5,7 @@ val NelsonDaCosta = developer {
     about {
         name = "Nelson da Costa"
         company = Sunday
-        role = Principal_Software_Engineer
+        role = Software_Engineer
     }
     tech("DDD", "Kotlin", "Java")
     links {
