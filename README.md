@@ -1,7 +1,7 @@
 # Hi, I'm Nelson
 
 ```kotlin
-val NelsonDaCosta = developer {
+val Nelson_da_Costa = developer {
     about {
         name = "Nelson da Costa"
         company = Sunday
