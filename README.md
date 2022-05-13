@@ -5,9 +5,9 @@ val Nelson_da_Costa = developer {
     about {
         name = "Nelson da Costa"
         company = Sunday
-        role = Software_Engineer
+        role = Staff_Engineer
     }
-    tech("DDD", "Kotlin", "Java")
+    interests("Socio-technical systems", "DDD", "Team topologies", "Craft" , "Kotlin")
     links {
         twitter = "@baruica"
     }
