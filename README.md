@@ -1,13 +1,19 @@
 # Hi, I'm Nelson
 
 ```kotlin
-val Nelson_da_Costa = developer {
+val me = developer {
     about {
         name = "Nelson da Costa"
         company = Sunday
         role = Staff_Engineer
     }
-    interests("Socio-technical systems", "DDD", "Team topologies", "Craft" , "Kotlin")
+    interests(
+        "Socio-technical systems",
+        "DDD",
+        "Team topologies",
+        "Craft",
+        "Kotlin"
+    )
     links {
         twitter = "@baruica"
     }
