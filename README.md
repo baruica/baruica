@@ -5,7 +5,7 @@ val me = developer {
     about {
         name = "Nelson da Costa"
         company = Sunday
-        role = Staff_Engineer
+        role = "Staff Engineer"
     }
     interests(
         "Socio-technical systems",
