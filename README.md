@@ -5,13 +5,13 @@ val me = developer {
     about {
         name = "Nelson da Costa"
         company = Sunday
-        role = "Staff Engineer"
+        roles = ["Staff Engineer", "Engineering Manager"]
     }
     interests(
         "Socio-technical systems",
         "DDD",
         "Team topologies",
-        "Craft",
+        "XP",
         "Kotlin"
     )
     links {
