@@ -15,7 +15,8 @@ val me = developer {
         "Kotlin"
     )
     links {
-        twitter = "@baruica"
+        mastodon = "@baruica@mastodon.social"
+        twitter  = "@baruica"
     }
 }
 ```
