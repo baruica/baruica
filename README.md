@@ -11,7 +11,7 @@ val me = developer {
         "Socio-technical systems",
         "DDD",
         "Team topologies",
-        "XP",
+        "eXtreme Programming",
         "Kotlin"
     )
     links {
