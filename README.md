@@ -8,10 +8,10 @@ val me = developer {
         roles = ["Staff Engineer", "Engineering Manager"]
     }
     interests(
+        "eXtreme Programming",
         "Socio-technical systems",
         "DDD",
         "Team topologies",
-        "eXtreme Programming",
         "Kotlin"
     )
     links {
