@@ -5,7 +5,7 @@ val me = developer {
     about {
         name = "Nelson da Costa"
         company = "PayFit"
-        roles = ["Staff Engineer", "Engineering Manager"]
+        roles = ["Staff Engineer"]
     }
     interests(
         "eXtreme Programming",
@@ -14,11 +14,6 @@ val me = developer {
         "Team topologies",
         "Kotlin"
     )
-    links {
-        mastodon = "[@baruica@mastodon.social](https://mastodon.social/@baruica)"
-        twitter  = "[@baruica](https://twitter.com/baruica)"
-        linkedin = "https://www.linkedin.com/in/nelson-da-costa-1a411b53/"
-    }
 }
 ```
 
