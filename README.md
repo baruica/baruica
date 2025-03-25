@@ -5,7 +5,7 @@ val me = developer {
     about {
         name = "Nelson da Costa"
         company = "PayFit"
-        roles = ["Staff Engineer"]
+        roles = ["Staff Software Engineer"]
     }
     interests(
         "eXtreme Programming",
